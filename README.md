@@ -1,6 +1,6 @@
 # work_example
 Example of my work as a product analyst.
-Unfortunately, due to NDA I am not allowed to provide the source code, but can provide an example of internal live dashboard for orders tracking with anonymized data.
+Unfortunately, I am not allowed to provide the source code due to NDA, but can provide an example of internal live dashboard for orders tracking with anonymized data.
 
 https://oleksandr-romanov.shinyapps.io/rshinyviz/
 
